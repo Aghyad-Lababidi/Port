@@ -263,7 +263,7 @@ h3.my-profession
     text-align: center;
     position: relative;
 }
-.home .home-img::after
+/* .home .home-img::after
 {
     content: "";
     position: absolute;
@@ -284,7 +284,7 @@ h3.my-profession
     top: -15px;
     border-top:  8px solid var(--skin-color);
     border-left: 8px solid var(--skin-color);
-}
+} */
 .home .home-img img 
 {
     height: 400px;
